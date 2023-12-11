@@ -22,4 +22,6 @@ In a second phase, one player will be allowed to use an additional gate ("coin m
 Will this change the game?
 
 
+Some Quantum Theory related to this Coin Game:
+
 ![image](https://github.com/AmartyaGhost/Coin-Game/assets/103167689/d9b89c14-0189-4b9f-9491-bada540d32b6)
