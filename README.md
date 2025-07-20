@@ -1,4 +1,4 @@
-# Coin-Game
+# Coin-Game using Quantum Computation
 
 A quantum coin game to illustrate the power of quantum superposition and interference
 
